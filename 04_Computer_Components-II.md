@@ -82,7 +82,8 @@ Programs and instructions that tell the hardware **what to do**.
 
 # 💡 Programming Languages
 
-**Definition:** A set of instructions used to create software.
+A programming language is a formal language used to instruct computers to solve a problem.
+
 
 | **Level** | **Description** | **Examples** |
 |------------|-----------------|---------------|
