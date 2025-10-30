@@ -5,6 +5,7 @@
 ## 🖥️ **What is a Computer?**
 
 A **computer** is an electronic device that receives data, processes it into meaningful information, stores it, and produces output.
+
 It follows a set of instructions called a **program**.
 
 👉 **Examples:**
