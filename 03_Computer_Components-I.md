@@ -84,16 +84,6 @@ A computer has **two main parts** or components:
 
 ---
 
-## 🧠 Software (Brief Overview)
-
-**Software** refers to the programs and instructions that control computer hardware.
-
-| Type | Description | Example |
-|------|--------------|----------|
-| **System Software** | Runs and manages hardware | Windows, macOS, Linux |
-| **Application Software** | Performs specific tasks | MS Word, Photoshop |
-| **Utility Software** | Helps maintain the system | Antivirus, File Manager |
-
 ---
 
 ## 📘 Summary
