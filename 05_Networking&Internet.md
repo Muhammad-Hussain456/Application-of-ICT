@@ -106,13 +106,13 @@ A --> C[Receiver]
 A --> D[Message]
 A --> E[Medium/Channel]
 A --> F[Protocol]
-
+```
 1. **Sender** – Device that sends the data  
 2. **Receiver** – Device that receives the data  
 3. **Message** – The actual data to be transmitted  
 4. **Medium / Channel** – Path through which data travels  
 5. **Protocol** – Set of rules that governs data transmission  
-```
+
 ---
 
 ## 5️⃣ Types of Transmission Media
