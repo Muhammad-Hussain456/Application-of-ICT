@@ -17,13 +17,14 @@ A computer network is a group of interconnected computing devices that exchange 
 
 **Definition:** The type of connection describes **how devices are linked together** in a network.  
 
-
+mermaid 
+```
 graph TD
 A[Network Connections] --> B[Point-to-Point]
 A --> C[Multipoint]
 B --> D[Direct link between 2 devices]
 C --> E[Shared link for 3+ devices]
-
+```
 ### **1. Point-to-Point (P2P) Connection**
 - **Definition:** A direct link between **two devices only**.  
 - **Characteristics:**  
