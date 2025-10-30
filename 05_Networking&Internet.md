@@ -17,8 +17,8 @@ A computer network is a group of interconnected computing devices that exchange 
 
 **Definition:** The type of connection describes **how devices are linked together** in a network.  
 
-mermaid 
-```
+
+```mermaid 
 graph TD
 A[Network Connections] --> B[Point-to-Point]
 A --> C[Multipoint]
