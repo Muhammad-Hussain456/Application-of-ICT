@@ -119,8 +119,8 @@ A --> F[Protocol]
 
 ```mermaid 
 graph TD
-A[Transmission Media] --> B[Guided (Wired)]
-A --> C[Unguided (Wireless)]
+A[Transmission Media] --> B[Guided ]
+A --> C[Unguided ]
 B --> D[Twisted Pair]
 B --> E[Coaxial Cable]
 B --> F[Fiber Optic]
