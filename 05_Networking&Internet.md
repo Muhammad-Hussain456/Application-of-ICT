@@ -16,6 +16,13 @@ A **computer network** is a group of two or more computers and devices connected
 
 **Definition:** The type of connection describes **how devices are linked together** in a network.  
 
+
+graph TD
+A[Network Connections] --> B[Point-to-Point]
+A --> C[Multipoint]
+B --> D[Direct link between 2 devices]
+C --> E[Shared link for 3+ devices]
+
 ### **1. Point-to-Point (P2P) Connection**
 - **Definition:** A direct link between **two devices only**.  
 - **Characteristics:**  
@@ -41,10 +48,24 @@ A **computer network** is a group of two or more computers and devices connected
 
 ---
 
+
+
+
+
 ## 3️⃣ Network Topologies
 
 **Definition:**  
 The **physical or logical layout** formed by **how devices are connected** in a network is called a **network topology**.
+
+
+
+graph TD
+A[Network Topologies] --> B[Bus]
+A --> C[Star]
+A --> D[Ring]
+A --> E[Mesh]
+A --> F[Tree]
+A --> G[Hybrid]
 
 **Key Point:**  
 - The **type of connection between devices** (Point-to-Point or Multipoint) **creates the topology**.  
@@ -61,12 +82,24 @@ The **physical or logical layout** formed by **how devices are connected** in a 
 
 ---
 
+
+
+
+
 ## 4️⃣ Data Communication
 
 **Definition:**  
 **Data communication** is the **exchange of data between devices** through a transmission medium.
 
 **Elements of Data Communication:**
+
+graph TD
+A[Data Communication] --> B[Sender]
+A --> C[Receiver]
+A --> D[Message]
+A --> E[Medium/Channel]
+A --> F[Protocol]
+
 1. **Sender** – Device that sends the data  
 2. **Receiver** – Device that receives the data  
 3. **Message** – The actual data to be transmitted  
@@ -76,6 +109,19 @@ The **physical or logical layout** formed by **how devices are connected** in a 
 ---
 
 ## 5️⃣ Types of Transmission Media
+
+
+graph TD
+A[Transmission Media] --> B[Guided (Wired)]
+A --> C[Unguided (Wireless)]
+B --> D[Twisted Pair]
+B --> E[Coaxial Cable]
+B --> F[Fiber Optic]
+C --> G[Radio Waves]
+C --> H[Microwave]
+C --> I[Infrared]
+C --> J[Satellite]
+
 
 ### **1. Guided (Wired) Media**
 - **Twisted Pair Cable:** Used in LANs, affordable, moderate speed  
