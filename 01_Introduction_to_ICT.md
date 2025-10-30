@@ -30,7 +30,7 @@ It follows a set of instructions called a **program**.
 
 ## ⚙️ **What is Computing?**
 
-**Computing** is the process of using computers to process, manage, and communicate data efficiently.
+**Computing** is the use computers to process, manage, and communicate data efficiently.
 It involves **input, processing, storage, and output** of data.
 
 💬 **In short:** “Using computers to work with information.”
