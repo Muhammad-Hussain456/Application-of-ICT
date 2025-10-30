@@ -2,8 +2,9 @@
 
 ## 1️⃣ Concept of Computer Network
 
-**Definition:**  
-A **computer network** is a group of two or more computers and devices connected together to **share resources, data, and information**.
+**Definition:**
+
+A computer network is a group of interconnected computing devices that exchange data and share resources with each other.
 
 **Key Points:**
 - Enables file sharing, internet access, and communication.  
