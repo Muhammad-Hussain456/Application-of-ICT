@@ -25,6 +25,8 @@ A --> C[Multipoint]
 B --> D[Direct link between 2 devices]
 C --> E[Shared link for 3+ devices]
 ```
+
+
 ### **1. Point-to-Point (P2P) Connection**
 - **Definition:** A direct link between **two devices only**.  
 - **Characteristics:**  
@@ -60,7 +62,7 @@ C --> E[Shared link for 3+ devices]
 The **physical or logical layout** formed by **how devices are connected** in a network is called a **network topology**.
 
 
-
+```mermaid 
 graph TD
 A[Network Topologies] --> B[Bus]
 A --> C[Star]
@@ -68,6 +70,7 @@ A --> D[Ring]
 A --> E[Mesh]
 A --> F[Tree]
 A --> G[Hybrid]
+```
 
 **Key Point:**  
 - The **type of connection between devices** (Point-to-Point or Multipoint) **creates the topology**.  
@@ -95,6 +98,8 @@ A --> G[Hybrid]
 
 **Elements of Data Communication:**
 
+
+```mermaid 
 graph TD
 A[Data Communication] --> B[Sender]
 A --> C[Receiver]
@@ -107,12 +112,12 @@ A --> F[Protocol]
 3. **Message** – The actual data to be transmitted  
 4. **Medium / Channel** – Path through which data travels  
 5. **Protocol** – Set of rules that governs data transmission  
-
+```
 ---
 
 ## 5️⃣ Types of Transmission Media
 
-
+```mermaid 
 graph TD
 A[Transmission Media] --> B[Guided (Wired)]
 A --> C[Unguided (Wireless)]
@@ -123,7 +128,7 @@ C --> G[Radio Waves]
 C --> H[Microwave]
 C --> I[Infrared]
 C --> J[Satellite]
-
+```
 
 ### **1. Guided (Wired) Media**
 - **Twisted Pair Cable:** Used in LANs, affordable, moderate speed  
