@@ -49,9 +49,7 @@ It can be:
 
 ## 🌐 **What is ICT?**
 
-📘 **Definition:**
-
-> “ICT (Information and Communication Technology) is the integration of computing and communication technologies used to store, retrieve, transmit, and manipulate data.”
+ICT (Information and Communication Technology) is the integration of computing and communication technologies used to store, retrieve, transmit, and manipulate data.
 
 ---
 
