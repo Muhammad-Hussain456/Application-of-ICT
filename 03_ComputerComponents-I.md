@@ -88,17 +88,17 @@ A computer consists of **hardware** (physical components) and **software** (prog
 
 Supporting hardware assists main components by **enabling connectivity, communication, or power**. These do **not perform core computing or storage** themselves.  
 
-1. **Cables** – Wires that act as **transmission medium** and carry **power or data** between devices (power cables, data cables, display cables, peripheral cables).
+1. **Cables** – **Wires** that act as **transmission media** and carry **power or data** between devices (power cables, data cables, display cables, peripheral cables).
 It connect devices, but the connection usually requires connectors at the ends of cable and devices.
 
-**Note**: **Transmission medium** can be **wired(cable)** or **wireless**. You will learn more about **transmission medium** in the **networking** topic later.
+**Note**: **Transmission media** can be **Guided(wired)** or **Unguided(wireless)**. You will learn more about **transmission media** in the **Networking & Internet** topic later.
 
-**Example:** An Ethernet cable connects a computer to a router. There should be connectors at the ends of Ethernet cable, one connector on the interface computer, and one connector on the interface of router.
+**Example:** An Ethernet cable connects network devices and primarily carries data between network devices, and in special cases (PoE) it can also carry power. To connect a computer to a router using Ethernet Cable, There should be connectors at the ends of Ethernet cable, one connector on the interface computer, and one connector on the interface of router.
 
 2. **Connector** –  The interface at the end of the cable or device that physically joins two or more cables or devices.
 
 **Example:**
-Connecting your mobile with your computer using a USB cable. There should be connectors at the ends of USB cable, one connector on the interface of your mobile, and one connector on the interface of your laptop.
+Connecting your mobile with your computer and transfering power and data using a USB cable. There should be connectors at the ends of USB cable, one connector on the interface of your mobile, and one connector on the interface of your laptop.
 
  **Main Connector Types**
 
