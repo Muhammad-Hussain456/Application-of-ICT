@@ -88,8 +88,8 @@ A computer consists of **hardware** (physical components) and **software** (prog
 
 Supporting hardware assists main components by **enabling connectivity, communication, or power**. These do **not perform core computing or storage** themselves.  
 
-1. **Cable** – Wire that carry **power or data** between devices (power cables, data cables, display cables, peripheral cables).
-It connects devices, but the connection usually requires connectors at the ends of cable and devices.
+1. **Cables** – Wires that act as **transmission medium** and carry **power or data** between devices (power cables, data cables, display cables, peripheral cables).
+It connect devices, but the connection usually requires connectors at the ends of cable and devices.
 
 **Example:** An Ethernet cable connects a computer to a router. There should be connectors at the ends of Ethernet cable, one connector on the interface computer, and one connector on the interface of router.
 
