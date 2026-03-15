@@ -89,34 +89,10 @@ A computer consists of **hardware** (physical components) and **software** (prog
 Supporting hardware assists main components by **enabling connectivity, communication, or power**. These do **not perform core computing or storage** themselves.  
 
 1. **Cables** – Wires that carry **power or data** (power cables, data cables, display cables, peripheral cables)  
-2. **Connectors** – Cable ends that plug into ports (USB, HDMI, RJ-45, etc.)  
-3. **Ports** – Receptacles on devices where connectors plug in; can be **physical** (USB port, HDMI port) or **virtual** (software/network ports like 80, 443)  
-4. **Interfaces** – Communication standard; can be **physical** (USB, PCIe, Ethernet) or **virtual** (virtual NICs, OS interfaces)  
-5. **Jacks** – Specialized ports, usually audio/video (3.5mm, RCA, headphone jack)  
-
----
-
-## ✅ Additional Concepts Covered
-
-- **Power & Data Flow** – How CPU ↔ RAM ↔ Storage ↔ GPU communicate  
-- **Buses** – Data, address, and control lines inside the motherboard  
-- **Role of Motherboard** – Connects all hardware, acts like the central “hub”  
-
----
-
-## 💡 Memory Tip – Plumbing Analogy
-
-Think of supporting hardware **like plumbing**:
-
-| Hardware | Analogy |
-|----------|---------|
-| Cable | Wire or pipe |
-| Connector | Pipe fitting end |
-| Port | Hole in the wall where pipe fits (can be virtual as well) |
-| Interface | Plumbing standard (PVC, copper, pressure; can be virtual as well) |
-| Jack | Special kind of port (like a faucet for audio) |
-
-This analogy helps **visualize how data and power flow through the system**, and why ports/interfaces can be **physical or virtual**.  
+2. **Connectors** – Cable ends that plug into ports.
+   Connectors are classified into two main types/categories:
+   1. **Plug** - Male part/end of a cable/device that plug into port.
+   2. **Port** - Female part/end of a cable/device 
 
 ---
 
@@ -125,11 +101,11 @@ This analogy helps **visualize how data and power flow through the system**, and
 ```mermaid
 flowchart TD
     PSU[Power Supply Unit] --> MB[Motherboard]
-    MB --> CPU[CPU (Central Processing Unit)]
-    CPU --> RAM[RAM (Working Memory)]
-    CPU --> GPU[GPU (Graphics Processing Unit)]
-    RAM --> Storage[Storage Devices (HDD/SSD/USB/Cloud)]
-    CPU --> Input[Input Devices (Keyboard, Mouse, Scanner)]
-    GPU --> Output[Output Devices (Monitor, Printer, Speakers)]
-    MB --> Network[Networking Devices (Router, Switch, Modem)]
-    CPU -.-> Support[Supporting Hardware: Cables, Connectors, Ports, Interfaces, Jacks]
+    MB --> CPU[CPU]
+    CPU --> RAM[RAM]
+    CPU --> GPU[GPU ]
+    RAM --> Storage[Storage Devices]
+    CPU --> Input[Input Devices ]
+    GPU --> Output[Output Devices]
+    MB --> Network[Networking Devices]
+    CPU -.-> Support[Supporting Hardware: Cables, Connectors]
