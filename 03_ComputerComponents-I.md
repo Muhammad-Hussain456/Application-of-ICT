@@ -91,6 +91,8 @@ Supporting hardware assists main components by **enabling connectivity, communic
 1. **Cables** – Wires that act as **transmission medium** and carry **power or data** between devices (power cables, data cables, display cables, peripheral cables).
 It connect devices, but the connection usually requires connectors at the ends of cable and devices.
 
+**Note**: **Transmission medium** can be **wired(cable)** or **wireless**. You will learn more about **transmission medium** in the **networking** topic later.
+
 **Example:** An Ethernet cable connects a computer to a router. There should be connectors at the ends of Ethernet cable, one connector on the interface computer, and one connector on the interface of router.
 
 2. **Connector** –  The interface at the end of the cable or device that physically joins two or more cables or devices.
