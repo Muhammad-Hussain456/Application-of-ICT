@@ -93,7 +93,7 @@ They connect devices, but the connection usually requires **connectors** at the 
 
 **Note**: **Transmission media** can be **Guided(wired)** or **Unguided(wireless)**. You will learn more about **transmission media** in the **Networking & Internet** topic later.
 
-**Example:** An Ethernet cable connects network devices and primarily carries data between network devices, and in special cases (PoE) it can also carry power. To connect a computer to a router **using Ethernet Cable**, There should be connectors at the ends of Ethernet cable, one connector on the interface computer, and one connector on the interface of router.
+**Example:** An Ethernet cable connects network devices and primarily carries data between network devices, and in special cases (PoE) it can also carry power. To connect a computer to a router **using Ethernet Cable**, There should be connectors at the ends of Ethernet cable, one connector on the interface of computer, and one connector on the interface of router.
 
 2. **Connector** –  The interface at the end of the cable or device that physically joins two or more cables or devices.
 
