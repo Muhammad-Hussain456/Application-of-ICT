@@ -98,7 +98,7 @@ They connect devices, but the connection usually requires **connectors** at the 
 2. **Connector** –  The interface at the end of the cable or device that physically joins two or more cables or devices.
 
 **Example:**
-Connecting your mobile with your computer and transfering power and data using a USB cable. There should be connectors at the ends of USB cable, one connector on the interface of your mobile, and one connector on the interface of your laptop.
+To connect your mobile with your computer and transfering power and data **using a USB cable**. There should be connectors at the ends of USB cable, one connector on the interface of your mobile, and one connector on the interface of your laptop.
 
  **Main Connector Types**
 
