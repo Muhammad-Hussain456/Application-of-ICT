@@ -90,12 +90,13 @@ Supporting hardware assists main components by **enabling connectivity, communic
 
 1. **Cable** – Wire that carry **power or data** between devices (power cables, data cables, display cables, peripheral cables).
 It connects devices, but the connection usually requires connectors at the ends of cable and devices.
-**Example:** An Ethernet cable connects a computer to a router
+
+**Example:** An Ethernet cable connects a computer to a router. There should be connectors at the ends of Ethernet cable, one connector on the interface computer, and one connector on the interface of router.
 
 2. **Connector** –  The interface at the end of the cable or device that physically joins two or more cables or devices.
-**Example:**
-USB cable(cable) carries data, the USB plug(connector) inserts into a USB port(connector).
 
+**Example:**
+Connecting your mobile with your computer using a USB cable. There should be connectors at the ends of USB cable, one connector on the interface of your mobile, and one connector on the interface of your laptop.
 
  **Main Connector Types**
 
@@ -106,8 +107,8 @@ Most connectors can be understood as **two fundamental types**:
 - It **inserts into another connector(port)**
 
 **Examples**
-- USB plug
 - RJ-45 Ethernet plug
+- USB plugs at ends of USB cable 
 - HDMI plug
 
 ---
@@ -117,8 +118,8 @@ Most connectors can be understood as **two fundamental types**:
 - It **receives the plug**
 
 **Examples**
-- USB port on a laptop
 - Ethernet port on a router
+- USB port on a laptop/mobile 
 - Audio jack on a phone
 
 **Other Related Terms**
