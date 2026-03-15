@@ -88,24 +88,47 @@ A computer consists of **hardware** (physical components) and **software** (prog
 
 Supporting hardware assists main components by **enabling connectivity, communication, or power**. These do **not perform core computing or storage** themselves.  
 
-1. **Cables** – Wires that carry **power or data** (power cables, data cables, display cables, peripheral cables)  
-2. **Connectors** – Cable ends that plug into ports.
-   Connectors are classified into two main types/categories:
-   1. **Plug** - Male part/end of a cable/device that plug into port.
-   2. **Port** - Female part/end of a cable/device 
+1. **Cable** – Wire that carry **power or data** between devices (power cables, data cables, display cables, peripheral cables).
+It connects devices, but the connection usually requires connectors at the ends of cable and devices.
+**Example:** An Ethernet cable connects a computer to a router
+
+2. **Connector** –  The interface at the end of the cable or device that physically joins two or more cables or devices.
+**Example:**
+USB cable(cable) carries data, the USB plug(connector) inserts into a USB port(connector).
+
+
+ **Main Connector Types**
+
+Most connectors can be understood as **two fundamental types**:
+
+ 1. **Plug**
+- The **male connector**
+- It **inserts into another connector(port)**
+
+**Examples**
+- USB plug
+- RJ-45 Ethernet plug
+- HDMI plug
 
 ---
 
-## 📊 Data Flow Inside a Computer
+ 2. **Port**
+- The **female connector**
+- It **receives the plug**
 
-```mermaid
-flowchart TD
-    PSU[Power Supply Unit] --> MB[Motherboard]
-    MB --> CPU[CPU]
-    CPU --> RAM[RAM]
-    CPU --> GPU[GPU ]
-    RAM --> Storage[Storage Devices]
-    CPU --> Input[Input Devices ]
-    GPU --> Output[Output Devices]
-    MB --> Network[Networking Devices]
-    CPU -.-> Support[Supporting Hardware: Cables, Connectors]
+**Examples**
+- USB port on a laptop
+- Ethernet port on a router
+- Audio jack on a phone
+
+**Other Related Terms**
+
+These are usually **specific forms or names related to ports or connectors**:
+
+| Term | Explanation |
+|-----|-------------|
+| Socket | A type of port |
+| Jack | Usually an audio port |
+| Slot | A special internal port for cards |
+| Receptacle | Another technical word for port |
+
