@@ -89,7 +89,7 @@ A computer consists of **hardware** (physical components) and **software** (prog
 Supporting hardware assists main components by **enabling connectivity, communication, or power**. These do **not perform core computing or storage** themselves.  
 
 1. **Cables** – Cables are **wires** that act as both **connecting devices** and **transmission media**, carrying power, data or both between devices. **Examples** include power cables, data cables, display cables, and peripheral cables.
-They connect devices, but the connection usually requires connectors at the ends of cables and devices.
+They connect devices, but the connection usually requires **connectors** at the ends of cables and devices.
 
 **Note**: **Transmission media** can be **Guided(wired)** or **Unguided(wireless)**. You will learn more about **transmission media** in the **Networking & Internet** topic later.
 
