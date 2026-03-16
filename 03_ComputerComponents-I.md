@@ -144,7 +144,7 @@ Secondary storage stores data **permanently**, even when the computer is powered
 💿 CD/DVD | Optical storage media |
 📝 Memory Card | Expandable portable storage |
 🖴 Floppy Disk | Legacy magnetic storage |
-☁️ Cloud Storage | Online storage service |
+☁️ Cloud Storage | “Remote/online service (e.g., Google Drive, OneDrive, AWS). Data is stored on servers owned by a provider, not on your local hardware.” |
 
 **Characteristics**
 
@@ -172,15 +172,18 @@ Secondary storage stores data **permanently**, even when the computer is powered
 ## ✅ Supporting Hardware
 
 Supporting hardware assists main components by **enabling connectivity, communication, or power**. These do **not perform core computing or storage** themselves.  
-
-1. **Cables** – Cables are **wires** that act as both **connecting devices** and **transmission media**, carrying power, data or both between devices. **Examples** include power cables, data cables, display cables, and peripheral cables.
+1. **Power Supply Unit (PSU)**
+Converts wall electricity into DC power for all components
+2. **Motherboard**
+   Main circuit board that connects CPU, RAM, storage, and all other parts
+3. **Cables** – Cables are **wires** that act as both **connecting devices** and **transmission media**, carrying power, data or both between devices. **Examples** include power cables, data cables, display cables, and peripheral cables.
 They connect devices, but the connection usually requires **connectors** at the ends of cables and devices.
 
 **Note**: **Transmission media** can be **Guided(wired)** or **Unguided(wireless)**. You will learn more about **transmission media** in the **Networking & Internet** topic later.
 
 **Example:** An Ethernet cable connects network devices and primarily carries data between network devices, and in special cases (PoE) it can also carry power. To connect a computer to a router **using Ethernet Cable**, There should be connectors at the ends of Ethernet cable, one connector on the interface of computer, and one connector on the interface of router.
 
-2. **Connector** –  The interface at the end of the cable or device that physically joins two or more cables or devices.
+4. **Connector** –  The interface at the end of the cable or device that physically joins two or more cables or devices.
 
 **Example:**
 To connect your mobile with your laptop and transfering power and data **using a USB cable**. There should be connectors at the ends of USB cable, one connector on the interface of your mobile, and one connector on the interface of your laptop.
@@ -203,11 +206,13 @@ Most connectors can be understood as **two fundamental types**:
  2. **Port**
 - The **female connector**
 - It **receives the plug**
-
+- 
 **Examples**
 - Ethernet port on a router
 - USB port on a laptop/mobile 
 - Audio jack on a phone
+
+**Note:** Virtual Ports and Networking/logical Ports (Software) have different meanings and are **not hardware ports**.
 
 **Other Related Terms**
 
@@ -215,7 +220,8 @@ These are usually **specific forms or names related to ports or connectors**:
 
 | Term | Explanation |
 |-----|-------------|
-| Socket | A type of port |
+| Socket | A hollow, outlet or cavity that holds something. Not normally called a “port”. Ports = external I/O; Sockets = internal component holders.|
+|**Note**:- Virtual Sockets and Networking Sockets (Software) have different meanings and are **not hardware sockets**. |
 | Jack | Usually an audio port |
 | Slot | A special internal port for cards |
 | Receptacle | Another technical word for port |
