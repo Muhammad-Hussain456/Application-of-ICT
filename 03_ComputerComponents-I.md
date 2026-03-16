@@ -39,34 +39,119 @@ A computer consists of **hardware** (physical components) and **software** (prog
 
 ---
 
-### 3️⃣ Processing Devices – The Brain of the Computer
+### 3️⃣ Processing Devices
 
-| Device | Function |
-|--------|---------|
-| 🧠 CPU | Main processing unit |
-| 🎮 GPU | Handles graphics and visual tasks |
-| ⚡ TPU | AI/ML computations |
-| 🔢 Co-processor | Assists the main CPU |
-| 🖥️ Microcontroller | Small embedded processor for specific tasks |
-| 🪐 FPGA | Customizable hardware processor |
-| 🖱️ Neural Processor | AI computations |
-| 🔄 DSP | Processes digital signals like audio/images |
+Processing devices are hardware components responsible for **executing instructions, performing calculations, and manipulating data** to produce meaningful output. These components form the computational core of a computer system.
+
+Processing devices are commonly categorized based on their purpose and architecture.
 
 ---
 
-### 4️⃣ Storage Devices – Save and Retrieve Data
+#### 1️⃣ General-Purpose Processors
+
+General-purpose processors are designed to handle **a wide variety of computing tasks** and execute program instructions for the operating system and applications.
 
 | Device | Function |
-|--------|---------|
-| 💽 HDD | Magnetic storage |
-| 💾 SSD | Fast flash storage |
-| 🗄️ USB Drive | Portable storage |
-| 💿 CD/DVD | Optical media |
-| 🧊 Cloud Storage | Online storage |
-| 📝 Memory Card | Expandable storage |
-| 🖴 Floppy Disk | Old magnetic medium |
-| 🔑 Secure Token | Encrypted storage |
+|------|------|
+🧠 **CPU (Central Processing Unit)** | Main processor that executes instructions and controls system operations |
+🎮 **GPU (Graphics Processing Unit)** | Processor optimized for graphics rendering and highly parallel computations |
 
+---
+
+#### 2️⃣ Specialized Processors (Hardware Accelerators)
+
+These processors are designed to **accelerate specific computational tasks** more efficiently than general-purpose processors.
+
+| Device | Function |
+|------|------|
+🔄 **DSP (Digital Signal Processor)** | Processes digital signals such as audio, video, and telecommunications data |
+⚡ **TPU (Tensor Processing Unit)** | Processor optimized for machine learning computations |
+🧠 **NPU (Neural Processing Unit)** | Dedicated processor for neural network and AI workloads |
+🔢 **Co-processor** | Auxiliary processor that assists the CPU with specialized operations |
+
+---
+
+#### 3️⃣ Embedded Processing Units
+
+Embedded processors are designed for **dedicated functions within embedded systems and electronic devices**.
+
+| Device | Function |
+|------|------|
+🖥️ **Microprocessor** | A CPU implemented on a single integrated circuit |
+🔌 **Microcontroller** | A compact processor with integrated memory and I/O used in embedded devices |
+
+Examples of microcontroller usage:
+
+- Smart appliances  
+- Automobiles  
+- IoT devices  
+- Industrial control systems  
+
+---
+
+#### 4️⃣ Reconfigurable Processing Hardware
+
+These devices can be **programmed or reconfigured** to implement custom hardware logic for specialized computing tasks.
+
+| Device | Function |
+|------|------|
+🪐 **FPGA (Field-Programmable Gate Array)** | Reconfigurable hardware that can implement custom processing circuits |
+
+
+---
+
+## 4️⃣ Storage Devices – Save and Retrieve Data
+
+Storage devices store data and instructions so the computer can use them now or later.
+
+Storage is generally divided into **two categories: Primary Storage (Main Memory)** and **Secondary Storage (Permanent Storage)**.
+
+---
+
+### 1️⃣ Primary Storage (Main Memory)
+
+Primary storage is **directly accessed by the CPU** and is **very fast**. It temporarily or permanently holds data and instructions required by the processor.
+
+| Device | Function |
+|------|------|
+💾 RAM (Random Access Memory) | Temporary memory that stores programs and data currently being used by the CPU |
+📀 ROM (Read Only Memory) | Permanent memory storing firmware and boot instructions |
+⚡ Cache Memory | Very fast memory used by the CPU to store frequently accessed data |
+🔢 Registers | Very small, fastest storage locations inside the CPU |
+
+**Characteristics**
+
+- Very **fast access speed**
+- Usually **small capacity**
+- **RAM is volatile** (data is lost when power is off)
+- **ROM is non-volatile** (data remains even without power)
+
+Example:
+
+When you open a program, it is loaded from **SSD/HDD → RAM → CPU processes it**.
+
+---
+
+### 2️⃣ Secondary Storage (Permanent Storage)
+
+Secondary storage stores data **permanently**, even when the computer is powered off.
+
+| Device | Function |
+|------|------|
+💽 HDD | Magnetic storage device |
+💾 SSD | Fast flash-based storage |
+🗄️ USB Drive | Portable flash storage |
+💿 CD/DVD | Optical storage media |
+📝 Memory Card | Expandable portable storage |
+🖴 Floppy Disk | Legacy magnetic storage |
+☁️ Cloud Storage | Online storage service |
+
+**Characteristics**
+
+- **Large storage capacity**
+- **Slower than primary memory**
+- **Non-volatile storage**
+  
 ---
 
 ### 5️⃣ Networking Devices – Connect Computers & Devices
