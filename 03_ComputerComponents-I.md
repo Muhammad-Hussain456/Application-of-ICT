@@ -43,61 +43,70 @@ A computer consists of **hardware** (physical components) and **software** (prog
 
 Processing devices are hardware components responsible for **executing instructions, performing calculations, and manipulating data** to produce meaningful output. These components form the computational core of a computer system.
 
-Processing devices are commonly categorized based on their purpose and architecture.
+Processing devices are commonly categorized based on their purpose, core count (single/dual/quad/octa), brand and architecture/generation.
 
 ---
 
-#### 1️⃣ General-Purpose Processors
+#### 1️⃣ Based on Purpose
 
-General-purpose processors are designed to handle **a wide variety of computing tasks** and execute program instructions for the operating system and applications.
-
-| Device | Function |
-|------|------|
-🧠 **CPU (Central Processing Unit)** | Main processor that executes instructions and controls system operations |
-🎮 **GPU (Graphics Processing Unit)** | Processor optimized for graphics rendering and highly parallel computations |
+| Type | Description | Examples |
+|------|------------|---------|
+🧠 **General-purpose processors** | Handle a wide variety of computing tasks and execute program instructions for the OS and applications | CPU |
+⚡ **Specialized processors** | Accelerate specific computational tasks more efficiently than general-purpose processors | DSP (Digital Signal Processor), , GPU, TPU (Tensor Processing Unit), NPU (Neural Processing Unit), Co-processor |
 
 ---
 
-#### 2️⃣ Specialized Processors (Hardware Accelerators)
+#### 2️⃣ Based on Core Count
 
-These processors are designed to **accelerate specific computational tasks** more efficiently than general-purpose processors.
+| Core Count | Description | Typical Usage |
+|------------|-------------|---------------|
+1️⃣ **Single-core** | One processing unit; legacy | Very old PCs, simple embedded devices |
+2️⃣ **Dual-core** | Two cores; basic multitasking  | Budget laptops, older smartphones |
+4️⃣ **Quad-core** | Four cores; mid-range multitasking  | Most modern laptops/desktops, mid-tier smartphones |
+8️⃣ **Octa-core or more** | Eight or more cores; high-performance multitasking  | Gaming PCs, servers, high-end smartphones |
 
-| Device | Function |
-|------|------|
-🔄 **DSP (Digital Signal Processor)** | Processes digital signals such as audio, video, and telecommunications data |
-⚡ **TPU (Tensor Processing Unit)** | Processor optimized for machine learning computations |
-🧠 **NPU (Neural Processing Unit)** | Dedicated processor for neural network and AI workloads |
-🔢 **Co-processor** | Auxiliary processor that assists the CPU with specialized operations |
-
----
-
-#### 3️⃣ Embedded Processing Units
-
-Embedded processors are designed for **dedicated functions within embedded systems and electronic devices**.
-
-| Device | Function |
-|------|------|
-🖥️ **Microprocessor** | A CPU implemented on a single integrated circuit |
-🔌 **Microcontroller** | A compact processor with integrated memory and I/O used in embedded devices |
-
-Examples of microcontroller usage:
-
-- Smart appliances  
-- Automobiles  
-- IoT devices  
-- Industrial control systems  
+> 💡 Note: Core count indicates **physical cores**, while threads (via Hyper-Threading/SMT) can double the logical processing units.
 
 ---
 
-#### 4️⃣ Reconfigurable Processing Hardware
+#### 3️⃣ Based on Brand / Family who manufacture it
 
-These devices can be **programmed or reconfigured** to implement custom hardware logic for specialized computing tasks.
+| Brand / Family | Performance Tier / Notes | Primary Devices |
+|----------------|-------------------------|----------------|
+**Intel (Core / Core Ultra)** | Entry → Enthusiast (i3/i5/i7/i9 or Ultra 5/7/9 series) | Desktops, laptops, some servers |
+**AMD (Ryzen)** | Entry → Enthusiast (Ryzen 3/5/7/9 + X3D for gaming) | Desktops, laptops, gaming PCs, servers |
+**Apple (M-series & A-series)** | High performance + excellent battery life (ARM-based) | Macs, iPhones, iPads |
+**Qualcomm (Snapdragon)** | Mid → Flagship (Snapdragon 8 Elite, Snapdragon X Elite) | Smartphones, tablets, Windows laptops |
+**MediaTek (Dimensity)** | Entry → Mid/High (Dimensity 8000–9500 series) | Budget & mid-range smartphones |
+**Samsung (Exynos)** | Mid → High (Exynos 2600 etc.) | Select Samsung Galaxy phones |
+**Google (Tensor)** | Mid-range with strong AI features | Google Pixel smartphones |
+**NVIDIA** | Mainly powerful GPUs; also server CPUs (Grace series) | Gaming graphics, AI PCs, data centers |
 
-| Device | Function |
-|------|------|
-🪐 **FPGA (Field-Programmable Gate Array)** | Reconfigurable hardware that can implement custom processing circuits |
+> 💡 Important: The **“Core i5” label does not mean the CPU has 5 cores**. Actual cores depend on the generation and model.
 
+---
 
+#### 4️⃣ Based on Architecture / Generation
+
+| Factor | Description | Examples |
+|--------|------------|---------|
+**Architecture** | The CPU's underlying design, affecting performance, efficiency, and features | Intel Skylake, Alder Lake; Apple M1, M2 |
+**Generation** | Version of the CPU architecture with improvements in performance, power efficiency, and features | Intel 6th Gen = Skylake, 12th Gen = Alder Lake; Apple M1 → M2 |
+
+> 💡 “6th Gen laptop” typically refers to a **laptop with a 6th Gen Intel Core CPU**, not the generation of all components.
+
+---
+
+#### 5️⃣ Intel CPU Naming Convention (Example: i5-6200U)
+
+| Part | Meaning |
+|------|---------|
+**i5** | Performance tier (mid-range) |
+**6** | Generation (6th Gen = Skylake) |
+**200** | SKU / specific model within the generation |
+**U** | Power category (U = ultra-low power, H = high-performance, K = unlocked) |
+
+**Note:-** Newer models dropped the ‘i’ prefix in some series and use ‘Core Ultra’.”
 ---
 
 ## 4️⃣ Storage Devices – Save and Retrieve Data
