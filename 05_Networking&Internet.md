@@ -1,4 +1,4 @@
-# 🌐 Networking & Internet((will be discussed in depth in DCCN course)
+# 🌐 Networking & Internet(will be discussed in depth in DCCN course)
 
 ## 1️⃣ Concept of Computer Network
 
