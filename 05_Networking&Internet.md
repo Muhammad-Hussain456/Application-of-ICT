@@ -4,7 +4,7 @@
 
 | Question | Answer |
 |----------|--------|
-| **What enables us to communicate with Application Softwares?** | GUI (Graphical User Interface) or CLI (Command Line Interface) enables us to communicate with application software. |
+| **What enables us to communicate with Application Softwares?** | GUI (Graphical User Interface) or CLI (Command Line Interface) enables us to communicate/interact with application software. |
 | **What enables us to communicate with OS?** | Application Software. Application software hi hota hai jo GUI ya CLI provide karta hai jiske through hum OS se interact karte hain. |
 | **What enables us to communicate with hardware?** | Operating System (OS) jo user aur hardware ke beech interface provide karta hai. |
 | **What enables Application Softwares to communicate with hardware?**| Operating System (OS) jo user aur hardware ke beech interface provide karta hai. |
