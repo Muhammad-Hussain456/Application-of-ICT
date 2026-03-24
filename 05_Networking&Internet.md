@@ -4,8 +4,10 @@
 
 | Question | Answer |
 |----------|--------|
-| **What enables us to communicate with hardware?** | Operating System (OS) jo user aur hardware ke beech interface provide karta hai. |
+| **What enables us to communicate with Application Softwares?** | GUI (Graphical User Interface) or CLI (Command Line Interface) enables us to communicate with application software. |
 | **What enables us to communicate with OS?** | Application Software. Application software hi hota hai jo GUI ya CLI provide karta hai jiske through hum OS se interact karte hain. |
+| **What enables us to communicate with hardware?** | Operating System (OS) jo user aur hardware ke beech interface provide karta hai. |
+| **What enables Application Softwares to communicate with hardware?**| Operating System (OS) jo user aur hardware ke beech interface provide karta hai. |
 | **What enables OS to communicate with hardware?** | Drivers. Drivers software hain jo OS ko specific hardware ke saath communicate karne dete hain. |
 | **What enables hardware (internal) to connect and communicate with each other?** | Internal Cables / System Bus (data bus, address bus, control bus). Ye computer ke andar CPU, RAM, aur other components ko connect karta hai. |
 | **What enables computers/devices to connect and communicate with each other?** | **Networking**. Wired (Ethernet cables, fiber optics) aur wireless (Wi-Fi, Bluetooth, satellite) media se multiple computers aur devices aapas mein connect hoti hain aur data exchange karti hain. |
