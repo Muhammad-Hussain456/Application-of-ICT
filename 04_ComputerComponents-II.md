@@ -7,7 +7,21 @@ Physical parts of the computer you can **see and touch**.
 **Examples:** Monitor, Keyboard, Mouse, CPU, Printer, Hard Drive.
 
 ## 2️⃣ Software
-Programs and instructions that tell the hardware **what to do**.
+Programs that tell the hardware **what to do**.
+
+###🔹 Why We Create Software?
+To solve **real-world problems** like:
+Communicating with hardware
+Communicating with other softwares such as OS
+Creating communication between software and hardware
+Calculating something
+Saving records
+Automating tasks, etc.
+
+**we can say that software is created to solve real world problems and make our work easy.**
+
+###🔹 What is Used to Write a Software?
+Any Programming Language (C, C++, Python, Java, etc.)
 
 ---
 
