@@ -44,7 +44,7 @@ Any Programming Language (C, C++, Python, Java, etc.)
 
 ---
 
-## 🖥️ Operating System ((will be discussed in depth in OS course)
+## 🖥️ Operating System (will be discussed in depth in OS course)
 
 **Definition:** A program that manages computer hardware, software, and user interaction.
 
@@ -114,7 +114,7 @@ A programming language is a formal language used to instruct computers to solve 
 | **What enables Application Softwares to communicate with hardware?**| Operating System (OS) jo Application Softwares aur hardware ke beech interface provide karta hai. OS ye bhi control karta hai ke kaun sa application software, kab, kitni der tak, aur kitna hardware resource (CPU, memory, network, etc.) aur kitni hardware space (hard disk, storage) use kar sakta hai. |
 | **What enables OS to communicate with hardware?** | Drivers. Drivers software hain jo OS ko specific hardware ke saath communicate karne dete hain. |
 | **What enables hardware (internal) to connect and communicate with each other?** | Internal Cables / System Bus (data bus, address bus, control bus). Ye computer ke andar CPU, RAM, aur other components ko connect karta hai. |
-| **What enables computers/devices to connect and communicate with each other?** | **Networking(will be discussed in depth in DCCN course**. Wired (Ethernet cables, fiber optics) aur wireless (Wi-Fi, Bluetooth, satellite) media se multiple computers aur devices aapas mein connect hoti hain aur data exchange karti hain. |
+| **What enables computers/devices to connect and communicate with each other?** | **Networking**(will be discussed in depth in DCCN course). Wired (Ethernet cables, fiber optics) aur wireless (Wi-Fi, Bluetooth, satellite) media se multiple computers aur devices aapas mein connect hoti hain aur data exchange karti hain. |
 | **What rules govern how devices communicate / ensure reliable and secured communication between devices?** | **Protocols**(will be discussed in depth in DCCN course) — set of rules that define data transmission, formatting, error handling, and security between devices. |
 
 
