@@ -114,6 +114,8 @@ Processing devices are commonly categorized based on their purpose, core count (
 Storage devices store data and instructions so the computer can use them now or later.
 
 Storage is generally divided into **two categories: Primary Storage (Main Memory)** and **Secondary Storage (Permanent Storage)**.
+---
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/115c8cb1-3621-45e0-9589-7bf34c4c3861" />
 
 ---
 
