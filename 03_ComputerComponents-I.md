@@ -115,9 +115,6 @@ Storage devices store data and instructions so the computer can use them now or 
 
 Storage is generally divided into **two categories: Primary Storage (Main Memory)** and **Secondary Storage (Permanent Storage)**.
 ---
-<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/115c8cb1-3621-45e0-9589-7bf34c4c3861" />
-
----
 
 ### 1️⃣ Primary Storage (Main Memory)
 
@@ -236,4 +233,12 @@ These are usually **specific forms or names related to ports or connectors**:
 | Jack | Usually an audio port |
 | Slot | A special internal port for cards |
 | Receptacle | Another technical word for port |
+
+
+---
+
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/dbf43d2f-b1f5-4b56-8231-97f79b349e49" />
+
+---
+
 
