@@ -7,7 +7,7 @@ Physical parts of the computer you can **see and touch**.
 **Examples:** Monitor, Keyboard, Mouse, CPU, Printer, Hard Drive.
 
 ## 2️⃣ Software
-Programs that tell the hardware **what to do**.
+Programs/set of instructions that tell the hardware **what to do**.
 
 ### Why We Create Software?                                                                                                            
 To solve **real-world problems** like:                                                                                                    
